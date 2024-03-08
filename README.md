@@ -1,4 +1,5 @@
-# projeto - indmo alula 05
+### projeto - indmo alula 05
+
 
  - 1. No Terminal executar o comando
       ```cmd
@@ -10,22 +11,22 @@
      ```
 - 3. Entrar na Pasta com o comando
        ```cmd
-     cd Lampada
+     cd **nome do projeto**
       ```
 - 4. Executar o comando
      ```cmd
      npm run web
       ```
 - 5 Em caso  de erro instale estas depencendias
-    ```cmd
-    npx expo install react-native-web react-dom @expo/metro-runtime 
-    ```
+     ```cmd
+     npx expo install react-native-web react-dom @expo/metro-runtime 
+     ```
 - 6. Instalar as **dependencias:**
-    ```cmd
-        yarn add @react-navigation/native
-        yarn add react-native-safe-area-context
-        yarn add react-native-screens
-        yarn add react-native-svg
-        yarn add @react-navigation/native-stack
-        yarn add react-native-mask-input
-    ```
+     ```cmd
+         yarn add @react-navigation/native
+         yarn add react-native-safe-area-context
+         yarn add react-native-screens
+         yarn add react-native-svg
+         yarn add @react-navigation/native-stack
+         yarn add react-native-mask-input
+     ```
